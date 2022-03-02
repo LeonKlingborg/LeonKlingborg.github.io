@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Leon Klingborg
+description:    "Coding and Data Science Portfolio"
 # baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Leon Klingborg
+  url:          https://LeonKlingborg.github.io
+  email:        leon.klingborg@gmail.com
 
 # Build settings
 markdown:       kramdown
